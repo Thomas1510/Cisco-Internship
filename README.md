@@ -66,7 +66,3 @@ The internship focused on three main areas:
 ## Conclusion
 This internship provided hands-on experience in cybersecurity and network design, helping me build a strong foundation for tackling real-world challenges. Feel free to explore the repository and reach out if you have any questions or feedback!
 
-## Contact
-- **Name**: Thomas (Asirvatham V.)
-- **Email**: your-email@example.com
-- **GitHub**: [your-github-profile-link](https://github.com/username)
