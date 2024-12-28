@@ -3,6 +3,21 @@
 ## Overview
 From May to July 2024, I successfully completed the Cisco Virtual Internship, where I tackled various real-world cybersecurity and network challenges using Cisco Packet Tracer. This repository documents my journey, solutions, and key deliverables for the internship problem statement: **Cyber Shield - Defending the Network.**
 
+## Network Topologies and Designs
+
+### Campus Network
+![Campus Network](CAMPUS%20NETWORK.png)
+
+### Cloud Security
+![Cloud Security](Cloud%20Security.png)
+
+### DNS, DHCP, and HTTP Configuration
+![DNS, DHCP, and HTTP Configuration](DNS+DHCP+HTTP%20Configuration.png)
+
+### Hybrid Topology
+![Hybrid Topology](HYBRID%20TOPOLOGY.png)
+
+
 ## Problem Statement
 The internship focused on three main areas:
 
